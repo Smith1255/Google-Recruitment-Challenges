@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+These programs were written as a part of the Google FOOBAR recruitment
+challenges.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Google Recruitment Challenges
+PURPOSE OF PROJECT: To complete as many problems as possible - complete the 'challenge'
+VERSION or DATE: 2015
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Andrew Smith
 USER INSTRUCTIONS:
