@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=population\ x\ y\ strength
+comment0.target=int[][]\ answer(int[][],\ int,\ int,\ int)
+numComments=1
